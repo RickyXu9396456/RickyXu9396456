@@ -1,7 +1,7 @@
 Computing Science Student at Simon Fraser University
 
 Languages: English;
-           Chinese Mandarin;
-           Java;
+           Mandarin;
            C/C++;
            Python;
+           Java;
